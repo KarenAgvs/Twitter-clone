@@ -1,0 +1,33 @@
+#initial{
+    background-color: #bc6c25;
+    border-radius: 80px;
+    width: 50px;
+    padding: 10px;
+    position: relative;
+}
+*{
+    font-family:'Arial Narrow Bold', sans-serif;
+}
+
+#global{
+    background-color: #283618;
+    /*opacity: 0.45;*/
+    width: 900px;
+    height: 500px;
+}
+textarea{
+    background-color: #606c38;
+    border:none;
+    border-radius: 5px;
+}
+#name{
+    border: 0px;
+    border-bottom: #fff 1px solid;
+    width: 200px;
+    background-color: #283618;
+    margin-bottom: 30px;
+
+}
+#btn_send{
+    width: 100px;
+}
